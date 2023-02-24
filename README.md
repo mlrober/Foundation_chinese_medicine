@@ -566,4 +566,72 @@ Yin (Zang) & Yang (FU) organs
     - If Lung Qi is weak, Qi will not be able to push the Blood, and the 
     limbs, particularly the hands, will be cold.
 - The Lungs control diffusing and descending of Qi
-
+	- The diffusing of Qi and fluids 
+		- The Lungs have the function of diffusing or spreading Defensive Qi and Body Fluids all over the body to the space between skin and muscles
+		- This is one way Lungs are physiologically related to the skin.
+		- The diffusing of Qi ensures that Defensive Qi is equally distributed all over the body under the skin, performing its function of  warming the skin and muscles and protecting the body from exterior pathogenic factors.
+		- If  Lung-Qi is weak and its diffusing function is impaired, Defensive Qi will not reach the skin and the body will be easily invaded by exterior pathogenic factors.
+		- E.g. If a person has catch a cold, the exterior wind-cold obstructs the skin which impairs the lungs diffusing function of QI. Hence, QI can't flow to skin and it will be blockage everywhere like headache, sneeing and cold etc.
+		- Lungs diffuses body fluids in the form of fine 'mist' and hence upper burner is called as "mist"
+		- The fine mist of Body Fluids moistens the skin and regulates the opening and closing of pores and sweating. 
+		- When this function is normal, the pores open and close normally, and there is a normal, physiological, amount of sweating: 
+			- the space between skin and muscles is said to be well regulated. 
+		- When this function is impaired, 
+			- the condition is Excess, the pores become blocked and there is no sweating: 
+				- the space between the skin and muscles is said to be too ‘tight’
+			- If the condition is Deficiency, the pores are over-relaxed and remain open so that there is spontaneous sweating:
+				- the space between the skin and muscles is said to be too ‘loose’.
+		- If  the Lung’s function of  diffusing body fluids is impaired, fluids  may  accumulate  under  the  skin, causing oedema (usually of the face).
+		- Clinical Note
+			- The  diffusing  of  Lung-Qi  can  be  stimulated  by  LU-7  Lieque 
+	- Descending of Ling-QI
+		- As lungs is uppermost organ of the body and its QI must descend, it is called as "magnificient lid" in chinese.
+		- As Lung-Qi must descend to communicate with the Kidneys and these respond by ‘holding’ Qi
+		- If  this descending movement of  Qi is impaired, Lung-Qi does not flow down and Qi will accumulate in the chest, causing cough, breathlessness and a feeling of oppression of the chest.
+		- In some cases, it may affect the function of the Large Intestine. If the Largntestine does not receive Qi from the Lungs, it will not have the power necessary for defecation (this happens particularly in the elderly).
+		- In certain cases, the impairment of the descending of Lung-Qi may also cause retention of urine (again, particularly in old people).
+		- The descending function applies not only to Qi but also to Body Fluids, because the Lungs also direct fluids down to the Kidneys and Bladder. 
+			- The Lungs direct fluids down to the Kidneys where Kidney-Yang evaporates them and sends them back up to the Lungs: these fluids are essential to keep the Lungs moist. 
+		- The Lungs also send some fluids down to the Bladder where they are excreted as urine. 
+			- For  this  reason  the  Lungs  influence urination  and  Lung-Qi  deficiency  may  cause  urinary problems
+		- Clinical Note
+			- The  descending  of  Lung-Qi  can  be  stimulated  by  LU-7  Lieque
+	- The Lungs regulate all physiological activities
+		- Lungs is compared to Prime Minister as regulates all the activities (like qi regulates activities in body).
+		- Heart is an Emperror as in charge of spirit (like blood provides spirit for nourishment)
+		- As QI is commander of blood (moves blood) and blood is mother of QI, this expresses the relationship between lungs & heart like QI & Blood.
+		- Gathering QI is acumulated in the chest and plays an important role in assisting the heart functions. 
+		- Gathering QI plays an importatn role in circulation of blood which is governed by heart.
+		- Gathering QI assists the lungs & heart to propels the QI and blood to the limbs especialy hands
+		- Gathering QI rises to the throat and enters the heart channel to aid breathing
+		- With Prime Minister as example, lungs regulates the physiological activites of each and every organ in the body and it does in variousways as:
+			- By  governing  Qi 
+			- By  controlling  all  channels  and  blood  vessels 
+			- By  governing  breathing
+		- As Qi is the basis for all physiological activities, the Lungs, by governing Qi, are naturally in charge of all physiological activities.
+		- This regulation function is dependent also on the Lungs’ action in moving Qi around the body.
+		- As the Lungs are the uppermost organ in the body, their Qi naturally descends.
+		- Lungs  regulate  the  ascending-descending of Qi through their descending function and the entering–exiting of Qi through their diffusing function.
+		- In turn, the circulation of Qi by the Lungs depends on the Lungs controlling all channels and blood vessels. 
+		- Clinical Note
+			- In  Chinese  pulse  diagnosis,  we  feel  the  pulse  on  the  radial artery,  a  blood  vessel.  However,  it  is  not  by  chance  that  we  feel the  radial  artery  where  the  Lung  channel  flows.  By  feeling  the radial  artery,  and  due  to  its  connection  with  the  Lung  channel, we  also  get  a  feel  of  Qi  circulation  as  the  Lungs  govern  QI
+		- As the Lungs govern breathing, this is another way in which they regulate all physiological activities. 
+		- Through breathing, the Lungs distribute Qi to all tissues in every part of the body and every organ and this naturally plays an important regulating function
+- The Lungs Regulate Water Passages
+	- Lungs reduce the refined fluids from spleen to a fine-mist and then spray it on the space between skin and muscles. It is part of diffusing function of lungs.
+	- Lungs direct the fluids down to the kidneys and which vapourize part of fluids and send back in form of "mist" to lungs to keep them moist.
+	- Lungs also direct fluids down to bladder which influence urination
+		- If this Lung function is normal, urination will be normal
+		- if it is impaired, triggers urinary retention, especially in old people.
+	- Since lungs play vital role in metabolism of fluids in upper burner, it is called "Upper source of water"
+	- Fluids enter the Stomach, the refined part is transmitted upward to the Spleen. Spleen-Qi, in turn, spreads it upwards to the Lungs who, regulating 
+	the Water passages, send it down to the Bladder.
+	 - Through its diffusing and descending functions, the Lungs are therefore responsible for the excretion of Body Fluids through sweat
+	 	- due to the diffusing of fluids in the space between skin and muscles - urine (due to the connection between Lungs and Bladder).
+	- The Lungs’ diffusing and descending of Body Fluids is part of the Upper Burner physiology in fluid metabolism. 
+	- One of the major functions of the Triple Burner is that of transformation, transportation and excretion of fluids.
+	- The Triple Burner is a system of body ‘cavities’, some large and some small. 
+		- The large cavities are the chest cavity (Upper Burner), abdominal cavity (Middle Burner) and  pelvic  cavity  (Lower Burner).
+	- The Triple Burner is in charge of the movement, transformation and excretion of  body fluids between these cavities
+		- For this, it relies on a proper ascending–descending and entering–exiting of Qi in all cavities and all organs.
+- 
